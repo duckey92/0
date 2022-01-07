@@ -8,7 +8,7 @@ int main() {
     int d = 0;
     int e = 0;
 
-    printf("�п�J���ӼƦr�A�H�ťչj�}�C\n");
+    printf("首五個字以空白表示\n");
     scanf("%d%d%d%d%d", &a, &b, &c, &d, &e);
     //add scanf code to get data from input
     //and feed those input into a, b, c, d, e, respectively.
